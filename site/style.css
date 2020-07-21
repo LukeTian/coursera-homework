@@ -51,12 +51,14 @@ p {
 	#Beef{
 		width: 40%;
 		margin-right: 50px;
-		margin-left: 40px;
+		margin-left: 10px;
+		float: right;
 		}
 	#Chicken{
 		width:40%;
-		margin-right: 50px;
+		margin-right: 10px;
 		margin-left: 50px;
+		float: left;
 	}
 
 	#Sushi{
