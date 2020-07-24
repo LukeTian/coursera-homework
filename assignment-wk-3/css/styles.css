@@ -1,0 +1,26 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: grey;
+  font-family: 'Oxygen', sans-serif;
+}
+/** header **/
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand{
+	font-size: 30px;
+	margin: 5px;
+	font-weight: bolder;
+
+}
+#menu-list{
+	font-size: 16px;
+	color: black;
+	font-weight: bold;
+	background-color: yellow;
+	text-align: center;
+
+}
